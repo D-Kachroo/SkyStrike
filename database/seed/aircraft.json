@@ -1,0 +1,258 @@
+[
+  {
+    "id": "blue-flight-fa18e",
+    "force": "blue",
+    "callsign": "Hornet 11",
+    "model": "F/A-18E Super Hornet",
+    "role": "Strike",
+    "quantity": 4,
+    "speed": 1.8,
+    "altitude": 22000,
+    "position": {
+      "x": 17,
+      "y": 34
+    },
+    "path": [
+      {
+        "x": 17,
+        "y": 34
+      },
+      {
+        "x": 31,
+        "y": 18
+      },
+      {
+        "x": 56,
+        "y": 23
+      },
+      {
+        "x": 75,
+        "y": 29
+      }
+    ]
+  },
+  {
+    "id": "blue-flight-fa18e-cover",
+    "force": "blue",
+    "callsign": "Hornet 21",
+    "model": "F/A-18E Super Hornet",
+    "role": "Air Cover",
+    "quantity": 2,
+    "speed": 1.65,
+    "altitude": 26000,
+    "position": {
+      "x": 16,
+      "y": 74
+    },
+    "path": [
+      {
+        "x": 16,
+        "y": 74
+      },
+      {
+        "x": 34,
+        "y": 86
+      },
+      {
+        "x": 57,
+        "y": 78
+      },
+      {
+        "x": 75,
+        "y": 65
+      }
+    ]
+  },
+  {
+    "id": "blue-flight-e2d",
+    "force": "blue",
+    "callsign": "Hawkeye 07",
+    "model": "E-2D Hawkeye",
+    "role": "Radar Watch",
+    "quantity": 1,
+    "speed": 1.1,
+    "altitude": 30000,
+    "position": {
+      "x": 25,
+      "y": 20
+    },
+    "path": [
+      {
+        "x": 25,
+        "y": 20
+      },
+      {
+        "x": 35,
+        "y": 9
+      },
+      {
+        "x": 49,
+        "y": 18
+      },
+      {
+        "x": 37,
+        "y": 30
+      }
+    ]
+  },
+  {
+    "id": "blue-flight-mq9b",
+    "force": "blue",
+    "callsign": "Blackbird 09",
+    "model": "SR-71 Blackbird",
+    "role": "Scouting",
+    "quantity": 1,
+    "speed": 1.2,
+    "altitude": 18000,
+    "position": {
+      "x": 12,
+      "y": 88
+    },
+    "path": [
+      {
+        "x": 12,
+        "y": 88
+      },
+      {
+        "x": 31,
+        "y": 72
+      },
+      {
+        "x": 51,
+        "y": 67
+      },
+      {
+        "x": 69,
+        "y": 55
+      }
+    ]
+  },
+  {
+    "id": "red-flight-su33",
+    "force": "red",
+    "callsign": "Flanker 31",
+    "model": "Su-33 Flanker",
+    "role": "Interceptor",
+    "quantity": 4,
+    "speed": 1.75,
+    "altitude": 24500,
+    "position": {
+      "x": 86,
+      "y": 28
+    },
+    "path": [
+      {
+        "x": 86,
+        "y": 28
+      },
+      {
+        "x": 70,
+        "y": 13
+      },
+      {
+        "x": 50,
+        "y": 22
+      },
+      {
+        "x": 29,
+        "y": 32
+      }
+    ]
+  },
+  {
+    "id": "red-flight-su33-strike",
+    "force": "red",
+    "callsign": "Flanker 12",
+    "model": "Su-33 Flanker",
+    "role": "Strike",
+    "quantity": 3,
+    "speed": 1.55,
+    "altitude": 21000,
+    "position": {
+      "x": 88,
+      "y": 75
+    },
+    "path": [
+      {
+        "x": 88,
+        "y": 75
+      },
+      {
+        "x": 69,
+        "y": 88
+      },
+      {
+        "x": 49,
+        "y": 80
+      },
+      {
+        "x": 27,
+        "y": 66
+      }
+    ]
+  },
+  {
+    "id": "red-flight-ka31",
+    "force": "red",
+    "callsign": "Lightning 04",
+    "model": "F-35 Lightning II",
+    "role": "Interceptor",
+    "quantity": 1,
+    "speed": 1.7,
+    "altitude": 27000,
+    "position": {
+      "x": 78,
+      "y": 17
+    },
+    "path": [
+      {
+        "x": 78,
+        "y": 17
+      },
+      {
+        "x": 66,
+        "y": 7
+      },
+      {
+        "x": 55,
+        "y": 16
+      },
+      {
+        "x": 66,
+        "y": 29
+      }
+    ]
+  },
+  {
+    "id": "red-flight-orion",
+    "force": "red",
+    "callsign": "Orion 22",
+    "model": "Orion UAV",
+    "role": "Drone Strike",
+    "quantity": 1,
+    "speed": 1.15,
+    "altitude": 17000,
+    "position": {
+      "x": 90,
+      "y": 88
+    },
+    "path": [
+      {
+        "x": 90,
+        "y": 88
+      },
+      {
+        "x": 72,
+        "y": 73
+      },
+      {
+        "x": 52,
+        "y": 68
+      },
+      {
+        "x": 32,
+        "y": 57
+      }
+    ]
+  }
+]

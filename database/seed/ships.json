@@ -1,0 +1,172 @@
+[
+  {
+    "id": "blue-cvn-78",
+    "force": "blue",
+    "designation": "USS Gerald Ford (CVN-78)",
+    "name": "USS Gerald Ford (CVN-78)",
+    "type": "carrier",
+    "className": "Aircraft Carrier",
+    "position": {
+      "x": 14,
+      "y": 48
+    },
+    "heading": 12,
+    "speed": 0.26,
+    "radarRange": 17,
+    "threatRange": 13,
+    "health": 100
+  },
+  {
+    "id": "blue-cg-67",
+    "force": "blue",
+    "designation": "USS Shiloh (CG-67)",
+    "name": "USS Shiloh (CG-67)",
+    "type": "cruiser",
+    "className": "Guided Missile Cruiser",
+    "position": {
+      "x": 20,
+      "y": 31
+    },
+    "heading": 20,
+    "speed": 0.32,
+    "radarRange": 15,
+    "threatRange": 18,
+    "health": 96
+  },
+  {
+    "id": "blue-ddg-101",
+    "force": "blue",
+    "designation": "USS Gridley (DDG-101)",
+    "name": "USS Gridley (DDG-101)",
+    "type": "destroyer",
+    "className": "Guided Missile Destroyer",
+    "position": {
+      "x": 25,
+      "y": 64
+    },
+    "heading": 6,
+    "speed": 0.38,
+    "radarRange": 12,
+    "threatRange": 15,
+    "health": 94
+  },
+  {
+    "id": "blue-ffg-62",
+    "force": "blue",
+    "designation": "USS Constellation (FFG-62)",
+    "name": "USS Constellation (FFG-62)",
+    "type": "frigate",
+    "className": "Frigate",
+    "position": {
+      "x": 18,
+      "y": 78
+    },
+    "heading": 350,
+    "speed": 0.36,
+    "radarRange": 10,
+    "threatRange": 11,
+    "health": 91
+  },
+  {
+    "id": "blue-ssn-774",
+    "force": "blue",
+    "designation": "USS Ohio (SSBN-726)",
+    "name": "USS Ohio (SSBN-726)",
+    "type": "submarine",
+    "className": "Nuclear Submarine",
+    "position": {
+      "x": 9,
+      "y": 60
+    },
+    "heading": 18,
+    "speed": 0.18,
+    "radarRange": 8,
+    "threatRange": 10,
+    "health": 98
+  },
+  {
+    "id": "red-cvn-76",
+    "force": "red",
+    "designation": "USS Ronald Reagan (CVN-76)",
+    "name": "USS Ronald Reagan (CVN-76)",
+    "type": "carrier",
+    "className": "Aircraft Carrier",
+    "position": {
+      "x": 86,
+      "y": 47
+    },
+    "heading": 192,
+    "speed": 0.24,
+    "radarRange": 17,
+    "threatRange": 13,
+    "health": 100
+  },
+  {
+    "id": "red-cg-68",
+    "force": "red",
+    "designation": "USS Anzio (CG-68)",
+    "name": "USS Anzio (CG-68)",
+    "type": "cruiser",
+    "className": "Guided Missile Cruiser",
+    "position": {
+      "x": 79,
+      "y": 29
+    },
+    "heading": 202,
+    "speed": 0.31,
+    "radarRange": 15,
+    "threatRange": 18,
+    "health": 95
+  },
+  {
+    "id": "red-ddg-102",
+    "force": "red",
+    "designation": "USS Sampson (DDG-102)",
+    "name": "USS Sampson (DDG-102)",
+    "type": "destroyer",
+    "className": "Guided Missile Destroyer",
+    "position": {
+      "x": 74,
+      "y": 64
+    },
+    "heading": 186,
+    "speed": 0.39,
+    "radarRange": 12,
+    "threatRange": 15,
+    "health": 94
+  },
+  {
+    "id": "red-ffg-61",
+    "force": "red",
+    "designation": "USS Ingraham (FFG-61)",
+    "name": "USS Ingraham (FFG-61)",
+    "type": "frigate",
+    "className": "Frigate",
+    "position": {
+      "x": 82,
+      "y": 79
+    },
+    "heading": 172,
+    "speed": 0.35,
+    "radarRange": 10,
+    "threatRange": 11,
+    "health": 93
+  },
+  {
+    "id": "red-ssn-773",
+    "force": "red",
+    "designation": "USS Maine (SSBN-741)",
+    "name": "USS Maine (SSBN-741)",
+    "type": "submarine",
+    "className": "Nuclear Submarine",
+    "position": {
+      "x": 91,
+      "y": 59
+    },
+    "heading": 184,
+    "speed": 0.17,
+    "radarRange": 8,
+    "threatRange": 10,
+    "health": 97
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "id": "blue",
+    "name": "Blue Army",
+    "taskForce": "Task Force - Alpha",
+    "affiliation": "friendly",
+    "color": "#38d5ff",
+    "accent": "#2b7cff",
+    "strength": 87,
+    "ships": [
+      {
+        "id": "blue-cvn-78",
+        "designation": "USS Gerald Ford (CVN-78)",
+        "type": "Aircraft Carrier"
+      },
+      {
+        "id": "blue-cg-67",
+        "designation": "USS Shiloh (CG-67)",
+        "type": "Guided Missile Cruiser"
+      },
+      {
+        "id": "blue-ddg-101",
+        "designation": "USS Gridley (DDG-101)",
+        "type": "Guided Missile Destroyer"
+      },
+      {
+        "id": "blue-ffg-62",
+        "designation": "USS Constellation (FFG-62)",
+        "type": "Frigate"
+      },
+      {
+        "id": "blue-ssn-774",
+        "designation": "USS Ohio (SSBN-726)",
+        "type": "Nuclear Submarine"
+      }
+    ],
+    "airWing": [
+      {
+        "id": "blue-fa18e",
+        "designation": "F/A-18E Super Hornet",
+        "quantity": 24
+      },
+      {
+        "id": "blue-e2d",
+        "designation": "E-2D Hawkeye",
+        "quantity": 4
+      },
+      {
+        "id": "blue-mh60r",
+        "designation": "MH-60R Seahawk",
+        "quantity": 6
+      },
+      {
+        "id": "blue-mq9b",
+        "designation": "SR-71 Blackbird",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "id": "red",
+    "name": "Red Army",
+    "taskForce": "Task Force - Omega",
+    "affiliation": "hostile",
+    "color": "#ff6b4a",
+    "accent": "#ff2f2f",
+    "strength": 82,
+    "ships": [
+      {
+        "id": "red-cvn-76",
+        "designation": "USS Ronald Reagan (CVN-76)",
+        "type": "Aircraft Carrier"
+      },
+      {
+        "id": "red-cg-68",
+        "designation": "USS Anzio (CG-68)",
+        "type": "Guided Missile Cruiser"
+      },
+      {
+        "id": "red-ddg-102",
+        "designation": "USS Sampson (DDG-102)",
+        "type": "Guided Missile Destroyer"
+      },
+      {
+        "id": "red-ffg-61",
+        "designation": "USS Ingraham (FFG-61)",
+        "type": "Frigate"
+      },
+      {
+        "id": "red-ssn-773",
+        "designation": "USS Maine (SSBN-741)",
+        "type": "Nuclear Submarine"
+      }
+    ],
+    "airWing": [
+      {
+        "id": "red-su33",
+        "designation": "Su-33 Flanker",
+        "quantity": 20
+      },
+      {
+        "id": "red-ka31",
+        "designation": "F-35 Lightning II",
+        "quantity": 4
+      },
+      {
+        "id": "red-ka27",
+        "designation": "Ka-27 Helix",
+        "quantity": 6
+      },
+      {
+        "id": "red-orion",
+        "designation": "Orion UAV",
+        "quantity": 2
+      }
+    ]
+  }
+]

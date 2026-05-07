@@ -1,0 +1,105 @@
+[
+  {
+    "id": "skystrike-default",
+    "name": "SkyStrike Carrier Intercept",
+    "description": "Two carrier strike groups converge around an island chain under deteriorating weather.",
+    "startTime": "08:00",
+    "durationMinutes": 120,
+    "map": {
+      "width": 100,
+      "height": 100,
+      "center": {
+        "x": 50,
+        "y": 50
+      },
+      "islands": [
+        {
+          "id": "kure-atoll",
+          "name": "Kure Atoll",
+          "x": 22,
+          "y": 13,
+          "scale": 1.28,
+          "rotation": -16
+        },
+        {
+          "id": "sand-island",
+          "name": "Sand Island",
+          "x": 78,
+          "y": 16,
+          "scale": 0.92,
+          "rotation": 14
+        },
+        {
+          "id": "eastern-islet",
+          "name": "Eastern Islet",
+          "x": 50,
+          "y": 88,
+          "scale": 1.12,
+          "rotation": -8
+        }
+      ]
+    },
+    "timeline": [
+      {
+        "time": "08:12",
+        "kind": "launch",
+        "force": "blue",
+        "message": "F/A-18E Super Hornet launched from USS Gerald Ford (CVN-78)"
+      },
+      {
+        "time": "08:15",
+        "kind": "launch",
+        "force": "blue",
+        "message": "E-2D Hawkeye airborne"
+      },
+      {
+        "time": "08:21",
+        "kind": "contact",
+        "force": "blue",
+        "message": "Contact! Enemy aircraft detected"
+      },
+      {
+        "time": "08:24",
+        "kind": "target",
+        "force": "blue",
+        "message": "SR-71 Blackbird confirmed target track"
+      },
+      {
+        "time": "08:31",
+        "kind": "missile",
+        "force": "blue",
+        "message": "Missile launched from USS Shiloh (USS Shiloh (CG-67))"
+      },
+      {
+        "time": "08:38",
+        "kind": "response",
+        "force": "red",
+        "message": "Enemy aircraft responding"
+      },
+      {
+        "time": "08:41",
+        "kind": "engagement",
+        "force": "blue",
+        "message": "F/A-18E Super Hornet engaging targets"
+      },
+      {
+        "time": "08:43",
+        "kind": "defense",
+        "force": "red",
+        "message": "Opponent fleet activates defensive screen"
+      },
+      {
+        "time": "08:46",
+        "kind": "damage",
+        "force": "red",
+        "message": "Near miss reported beside opponent cruiser"
+      },
+      {
+        "time": "08:44",
+        "kind": "scout",
+        "force": "blue",
+        "message": "SR-71 Blackbird starts high-speed scouting run"
+      }
+    ]
+  }
+]

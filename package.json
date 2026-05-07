@@ -1,0 +1,16 @@
+{
+  "name": "skystrike",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "server-node"
+  ],
+  "scripts": {
+    "dev:frontend": "npm --workspace frontend run dev",
+    "build:frontend": "npm --workspace frontend run build",
+    "preview:frontend": "npm --workspace frontend run preview",
+    "dev:node": "npm --workspace server-node run dev",
+    "start:node": "npm --workspace server-node run start"
+  }
+}

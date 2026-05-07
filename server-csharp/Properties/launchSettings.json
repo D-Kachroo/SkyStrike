@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "SkyStrike.Simulation": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "MONGODB_URI": "mongodb://localhost:27017",
+        "MONGODB_DB": "skystrike"
+      }
+    }
+  }
+}
