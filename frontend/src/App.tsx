@@ -730,7 +730,7 @@ function App() {
 
 function SkyStrikeLogo() {
   return (
-    <svg className="h-8 w-8 text-white" viewBox="0 0 48 48" fill="none" aria-hidden="true">
+    <svg className="h-9 w-9 text-white" viewBox="0 0 48 48" fill="none" aria-hidden="true">
       <path d="M24 4.8 L27.6 17.4 L40.8 20.1 L29.2 26.7 L31.3 39.8 L24 31.8 L16.7 39.8 L18.8 26.7 L7.2 20.1 L20.4 17.4 Z" stroke="currentColor" strokeWidth="2.2" strokeLinejoin="round" opacity="0.96" />
       <path d="M15.4 30.2 L32.8 13.4" stroke="currentColor" strokeWidth="2.6" strokeLinecap="round" />
       <path d="M11.4 36.5 L21.5 26.7 M26.6 21.6 L36.8 11.7" stroke="currentColor" strokeWidth="1.4" strokeLinecap="round" opacity="0.62" />
