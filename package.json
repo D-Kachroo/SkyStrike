@@ -12,8 +12,8 @@
     "preview:frontend": "npm --workspace frontend run preview",
     "dev:node": "npm --workspace server-node run dev",
     "start:node": "npm --workspace server-node run start"
-  }
+  },
   "engines": {
-  "node": "20.x"
+    "node": "20.x"
   }
 }
