@@ -1857,7 +1857,7 @@ function CommandWorkspace({
           <SectionHeader icon={<Cpu />} title="Recommendations" />
           <StatusLine label="Next Step" value="Keep fighter cover close" />
           <StatusLine label="Main Risk" value="Opponent's missile range" tone="red" />
-          <StatusLine label="Opening" value="Aircraft launch cycles" tone="blue" />
+          <StatusLine label="Opening" value="Aircraft deployment" tone="blue" />
           <div className="mt-3 grid grid-cols-1 gap-2">
             <CommandButton label="Replay Simulation" onClick={onResetScenario} />
             <CommandButton label="Return To Map" onClick={() => onTabChange("Simulation")} />
