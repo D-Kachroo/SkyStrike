@@ -13,4 +13,7 @@
     "dev:node": "npm --workspace server-node run dev",
     "start:node": "npm --workspace server-node run start"
   }
+  "engines": {
+  "node": "20.x"
+  }
 }
