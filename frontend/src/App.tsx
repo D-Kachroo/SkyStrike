@@ -920,7 +920,7 @@ function UnitRow({
   );
 }
 
-function UnitGlyph({ category, unitKind }: { accent: string; category: "ship" | "aircraft"; forceId: ForceId; unitKind: ShipUnit["type"] | string }) {
+function UnitGlyph({ accent, category, forceId, unitKind }: { accent: string; category: "ship" | "aircraft"; forceId: ForceId; unitKind: ShipUnit["type"] | string }) {
   const aircraftKind = unitKind === "radar" ? "radar" : unitKind === "lift" || unitKind === "helo" ? "lift" : unitKind === "drone" ? "drone" : "jet";
   const thumbnail = category === "ship" ? unitKind : aircraftKind;
 
